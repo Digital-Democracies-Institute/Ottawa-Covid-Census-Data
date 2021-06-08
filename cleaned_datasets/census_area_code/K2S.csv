@@ -1,0 +1,280 @@
+primary_ethnic_origin,secondary_ethnic_origin,tertiary_ethnic_origin,total_count,male_count,female_count
+total estimated ethnic,,,31465,15335,16130
+North American Aboriginal origins,,,1260,600,655
+North American Aboriginal origins,First Nations (North American Indian),,895,440,460
+North American Aboriginal origins,Inuit,,30,10,25
+North American Aboriginal origins,Métis,,350,160,190
+Other North American origins,,,10700,5315,5380
+Other North American origins,Acadian,,240,140,100
+Other North American origins,American,,445,225,225
+Other North American origins,Canadian,,10195,5040,5155
+Other North American origins,New Brunswicker,,0,0,0
+Other North American origins,Newfoundlander,,45,35,10
+Other North American origins,Nova Scotian,,15,10,10
+Other North American origins,Ontarian,,15,10,0
+Other North American origins,Québécois,,15,15,0
+Other North American origins,Other North American origins; n.i.e.,,0,0,0
+European origins,,,24305,11805,12495
+European origins,British Isles origins,,18610,9060,9555
+European origins,British Isles origins,Channel Islander,0,0,0
+European origins,British Isles origins,Cornish,0,0,0
+European origins,British Isles origins,English,9225,4470,4750
+European origins,British Isles origins,Irish,10200,4835,5370
+European origins,British Isles origins,Manx,0,0,0
+European origins,British Isles origins,Scottish,8055,3965,4090
+European origins,British Isles origins,Welsh,730,375,360
+European origins,British Isles origins,British Isles origins; n.i.e.,1495,690,800
+European origins,French origins,,6315,3040,3275
+European origins,French origins,Alsatian,0,0,0
+European origins,French origins,Breton,0,0,0
+European origins,French origins,Corsican,0,0,0
+European origins,French origins,French,6315,3040,3275
+European origins,Western European origins (except French origins),,5215,2535,2675
+European origins,Western European origins (except French origins),Austrian,185,85,95
+European origins,Western European origins (except French origins),Bavarian,0,0,0
+European origins,Western European origins (except French origins),Belgian,150,65,90
+European origins,Western European origins (except French origins),Dutch,1190,545,645
+European origins,Western European origins (except French origins),Flemish,0,0,0
+European origins,Western European origins (except French origins),Frisian,10,0,0
+European origins,Western European origins (except French origins),German,3865,1920,1945
+European origins,Western European origins (except French origins),Luxembourger,0,0,0
+European origins,Western European origins (except French origins),Swiss,195,110,85
+European origins,Western European origins (except French origins),Western European origins; n.i.e.,0,0,0
+European origins,Northern European origins (except British Isles origins),,1135,595,540
+European origins,Northern European origins (except British Isles origins),Danish,165,100,70
+European origins,Northern European origins (except British Isles origins),Finnish,215,130,85
+European origins,Northern European origins (except British Isles origins),Icelandic,40,25,20
+European origins,Northern European origins (except British Isles origins),Norwegian,365,185,185
+European origins,Northern European origins (except British Isles origins),Swedish,415,190,225
+European origins,Northern European origins (except British Isles origins),Northern European origins; n.i.e.,75,40,35
+European origins,Eastern European origins,,3425,1625,1795
+European origins,Eastern European origins,Bulgarian,35,20,15
+European origins,Eastern European origins,Byelorussian,10,0,10
+European origins,Eastern European origins,Czech,120,50,70
+European origins,Eastern European origins,Czechoslovakian; n.o.s.,20,0,10
+European origins,Eastern European origins,Estonian,45,20,25
+European origins,Eastern European origins,Hungarian,345,150,195
+European origins,Eastern European origins,Latvian,25,10,20
+European origins,Eastern European origins,Lithuanian,45,20,30
+European origins,Eastern European origins,Moldovan,0,0,10
+European origins,Eastern European origins,Polish,1350,605,745
+European origins,Eastern European origins,Romanian,140,80,60
+European origins,Eastern European origins,Russian,530,245,280
+European origins,Eastern European origins,Slovak,135,80,60
+European origins,Eastern European origins,Ukrainian,1050,525,530
+European origins,Eastern European origins,Eastern European origins; n.i.e.,75,40,30
+European origins,Southern European origins,,2820,1340,1490
+European origins,Southern European origins,Albanian,15,15,0
+European origins,Southern European origins,Bosnian,75,35,40
+European origins,Southern European origins,Catalan,0,0,0
+European origins,Southern European origins,Croatian,125,65,55
+European origins,Southern European origins,Cypriot,10,0,0
+European origins,Southern European origins,Greek,150,60,95
+European origins,Southern European origins,Italian,1825,870,945
+European origins,Southern European origins,Kosovar,0,0,0
+European origins,Southern European origins,Macedonian,20,0,20
+European origins,Southern European origins,Maltese,40,0,35
+European origins,Southern European origins,Montenegrin,0,0,0
+European origins,Southern European origins,Portuguese,190,95,95
+European origins,Southern European origins,Serbian,105,60,45
+European origins,Southern European origins,Sicilian,10,0,10
+European origins,Southern European origins,Slovenian,35,20,15
+European origins,Southern European origins,Spanish,325,135,195
+European origins,Southern European origins,Yugoslavian; n.o.s.,45,10,35
+European origins,Southern European origins,Southern European origins; n.i.e.,0,0,0
+European origins,Other European origins,,205,100,100
+European origins,Other European origins,Basque,0,0,0
+European origins,Other European origins,Jewish,145,75,65
+European origins,Other European origins,Roma (Gypsy),10,10,0
+European origins,Other European origins,Slavic; n.o.s.,0,0,0
+European origins,Other European origins,Other European origins; n.i.e.,50,25,30
+Caribbean origins,Other European origins,,310,170,140
+Caribbean origins,Antiguan,,0,0,0
+Caribbean origins,Bahamian,,0,0,0
+Caribbean origins,Barbadian,,30,15,10
+Caribbean origins,Bermudan,,0,0,0
+Caribbean origins,Carib,,10,0,0
+Caribbean origins,Cuban,,10,10,0
+Caribbean origins,Dominican,,0,0,0
+Caribbean origins,Grenadian,,15,10,10
+Caribbean origins,Guadeloupean,,0,0,0
+Caribbean origins,Haitian,,80,35,40
+Caribbean origins,Jamaican,,70,35,30
+Caribbean origins,Kittitian/Nevisian,,0,0,0
+Caribbean origins,Martinican,,0,0,0
+Caribbean origins,Montserratan,,0,0,0
+Caribbean origins,Puerto Rican,,0,0,0
+Caribbean origins,St. Lucian,,10,10,10
+Caribbean origins,Trinidadian/Tobagonian,,25,15,10
+Caribbean origins,Vincentian/Grenadinian,,10,10,0
+Caribbean origins,West Indian; n.o.s.,,40,15,25
+Caribbean origins,Caribbean origins; n.i.e.,,25,10,15
+Latin; Central and South American origins,,,405,200,205
+Latin; Central and South American origins,Aboriginal from Central/South America (except Arawak and Maya),,20,10,10
+Latin; Central and South American origins,Arawak,,0,0,0
+Latin; Central and South American origins,Argentinian,,0,0,0
+Latin; Central and South American origins,Belizean,,0,0,0
+Latin; Central and South American origins,Bolivian,,0,0,0
+Latin; Central and South American origins,Brazilian,,25,10,10
+Latin; Central and South American origins,Chilean,,55,30,25
+Latin; Central and South American origins,Colombian,,60,35,25
+Latin; Central and South American origins,Costa Rican,,0,0,0
+Latin; Central and South American origins,Ecuadorian,,0,0,0
+Latin; Central and South American origins,Guatemalan,,0,0,0
+Latin; Central and South American origins,Guyanese,,55,20,30
+Latin; Central and South American origins,Hispanic,,0,0,0
+Latin; Central and South American origins,Honduran,,0,0,10
+Latin; Central and South American origins,Maya,,15,0,10
+Latin; Central and South American origins,Mexican,,135,65,70
+Latin; Central and South American origins,Nicaraguan,,0,0,0
+Latin; Central and South American origins,Panamanian,,15,10,10
+Latin; Central and South American origins,Paraguayan,,0,0,0
+Latin; Central and South American origins,Peruvian,,0,0,0
+Latin; Central and South American origins,Salvadorean,,30,20,10
+Latin; Central and South American origins,Uruguayan,,15,0,10
+Latin; Central and South American origins,Venezuelan,,20,10,0
+Latin; Central and South American origins,Latin; Central and South American origins; n.i.e.,,30,15,20
+African origins,,,570,285,280
+African origins,Central and West African origins,,120,55,65
+African origins,Central and West African origins,Akan,0,0,0
+African origins,Central and West African origins,Angolan,0,0,0
+African origins,Central and West African origins,Ashanti,0,0,0
+African origins,Central and West African origins,Beninese,0,0,0
+African origins,Central and West African origins,Burkinabe,0,0,0
+African origins,Central and West African origins,Cameroonian,10,10,10
+African origins,Central and West African origins,Chadian,0,0,0
+African origins,Central and West African origins,Congolese,30,10,20
+African origins,Central and West African origins,Edo,0,0,0
+African origins,Central and West African origins,Ewe,0,0,0
+African origins,Central and West African origins,Gabonese,0,0,0
+African origins,Central and West African origins,Gambian,0,0,0
+African origins,Central and West African origins,Ghanaian,40,20,20
+African origins,Central and West African origins,Guinean,0,0,0
+African origins,Central and West African origins,Ibo,0,0,0
+African origins,Central and West African origins,Ivorian,20,10,15
+African origins,Central and West African origins,Liberian,0,0,0
+African origins,Central and West African origins,Malian,0,0,0
+African origins,Central and West African origins,Malinké,0,0,0
+African origins,Central and West African origins,Nigerian,10,0,10
+African origins,Central and West African origins,Peulh,0,0,0
+African origins,Central and West African origins,Senegalese,0,0,0
+African origins,Central and West African origins,Sierra Leonean,0,10,0
+African origins,Central and West African origins,Togolese,20,15,10
+African origins,Central and West African origins,Wolof,0,0,0
+African origins,Central and West African origins,Yoruba,0,0,0
+African origins,Central and West African origins,Central and West African origins; n.i.e.,0,0,0
+African origins,North African origins,,115,75,40
+African origins,North African origins,Algerian,10,10,10
+African origins,North African origins,Berber,0,0,0
+African origins,North African origins,Coptic,0,0,0
+African origins,North African origins,Dinka,0,0,0
+African origins,North African origins,Egyptian,90,55,35
+African origins,North African origins,Libyan,0,0,0
+African origins,North African origins,Maure,0,0,0
+African origins,North African origins,Moroccan,10,10,0
+African origins,North African origins,Sudanese,0,0,0
+African origins,North African origins,Tunisian,0,0,0
+African origins,North African origins,North African origins; n.i.e.,0,0,0
+African origins,Southern and East African origins,,210,90,120
+African origins,Southern and East African origins,Afrikaner,0,0,0
+African origins,Southern and East African origins,Amhara,0,0,0
+African origins,Southern and East African origins,Bantu; n.o.s.,0,0,0
+African origins,Southern and East African origins,Burundian,0,0,0
+African origins,Southern and East African origins,Djiboutian,0,0,0
+African origins,Southern and East African origins,Eritrean,0,0,0
+African origins,Southern and East African origins,Ethiopian,75,35,45
+African origins,Southern and East African origins,Harari,0,0,0
+African origins,Southern and East African origins,Kenyan,10,0,0
+African origins,Southern and East African origins,Malagasy,0,0,0
+African origins,Southern and East African origins,Mauritian,0,0,10
+African origins,Southern and East African origins,Oromo,0,0,0
+African origins,Southern and East African origins,Rwandan,0,0,0
+African origins,Southern and East African origins,Seychellois,15,10,10
+African origins,Southern and East African origins,Somali,65,30,30
+African origins,Southern and East African origins,South African,20,10,10
+African origins,Southern and East African origins,Tanzanian,15,0,0
+African origins,Southern and East African origins,Tigrian,10,0,10
+African origins,Southern and East African origins,Ugandan,10,10,0
+African origins,Southern and East African origins,Zambian,0,0,0
+African origins,Southern and East African origins,Zimbabwean,0,0,0
+African origins,Southern and East African origins,Zulu,0,0,0
+African origins,Southern and East African origins,Southern and East African origins; n.i.e.,15,10,10
+African origins,Other African origins,,125,70,55
+African origins,Other African origins,Black; n.o.s.,0,0,0
+African origins,Other African origins,Other African origins; n.i.e.,125,70,55
+Asian origins,Other African origins,,3360,1605,1745
+Asian origins,West Central Asian and Middle Eastern origins,,945,460,480
+Asian origins,West Central Asian and Middle Eastern origins,Afghan,20,15,10
+Asian origins,West Central Asian and Middle Eastern origins,Arab; n.o.s.,25,20,0
+Asian origins,West Central Asian and Middle Eastern origins,Armenian,0,0,0
+Asian origins,West Central Asian and Middle Eastern origins,Assyrian,0,10,0
+Asian origins,West Central Asian and Middle Eastern origins,Azerbaijani,0,0,0
+Asian origins,West Central Asian and Middle Eastern origins,Georgian,0,0,10
+Asian origins,West Central Asian and Middle Eastern origins,Hazara,0,0,0
+Asian origins,West Central Asian and Middle Eastern origins,Iranian,220,95,120
+Asian origins,West Central Asian and Middle Eastern origins,Iraqi,20,10,15
+Asian origins,West Central Asian and Middle Eastern origins,Israeli,40,15,20
+Asian origins,West Central Asian and Middle Eastern origins,Jordanian,10,0,10
+Asian origins,West Central Asian and Middle Eastern origins,Kazakh,0,0,0
+Asian origins,West Central Asian and Middle Eastern origins,Kurd,10,10,0
+Asian origins,West Central Asian and Middle Eastern origins,Kuwaiti,0,0,0
+Asian origins,West Central Asian and Middle Eastern origins,Kyrgyz,0,0,0
+Asian origins,West Central Asian and Middle Eastern origins,Lebanese,385,175,210
+Asian origins,West Central Asian and Middle Eastern origins,Palestinian,80,45,40
+Asian origins,West Central Asian and Middle Eastern origins,Pashtun,0,0,0
+Asian origins,West Central Asian and Middle Eastern origins,Saudi Arabian,35,15,20
+Asian origins,West Central Asian and Middle Eastern origins,Syrian,15,10,0
+Asian origins,West Central Asian and Middle Eastern origins,Tajik,0,0,0
+Asian origins,West Central Asian and Middle Eastern origins,Tatar,20,10,0
+Asian origins,West Central Asian and Middle Eastern origins,Turk,55,25,30
+Asian origins,West Central Asian and Middle Eastern origins,Turkmen,0,0,0
+Asian origins,West Central Asian and Middle Eastern origins,Uighur,0,0,0
+Asian origins,West Central Asian and Middle Eastern origins,Uzbek,0,0,0
+Asian origins,West Central Asian and Middle Eastern origins,Yemeni,10,10,0
+Asian origins,West Central Asian and Middle Eastern origins,West Central Asian and Middle Eastern origins; n.i.e.,20,10,10
+Asian origins,South Asian origins,,835,405,430
+Asian origins,South Asian origins,Bangladeshi,25,20,10
+Asian origins,South Asian origins,Bengali,0,0,0
+Asian origins,South Asian origins,Bhutanese,0,0,0
+Asian origins,South Asian origins,East Indian,625,300,325
+Asian origins,South Asian origins,Goan,10,0,0
+Asian origins,South Asian origins,Gujarati,0,0,0
+Asian origins,South Asian origins,Kashmiri,0,0,0
+Asian origins,South Asian origins,Nepali,0,0,0
+Asian origins,South Asian origins,Pakistani,70,40,30
+Asian origins,South Asian origins,Punjabi,20,10,10
+Asian origins,South Asian origins,Sinhalese,25,10,20
+Asian origins,South Asian origins,Sri Lankan,100,50,55
+Asian origins,South Asian origins,Tamil,20,10,10
+Asian origins,South Asian origins,South Asian origins; n.i.e.,20,10,10
+Asian origins,East and Southeast Asian origins,,1635,750,880
+Asian origins,East and Southeast Asian origins,Burmese,10,0,0
+Asian origins,East and Southeast Asian origins,Cambodian (Khmer),85,50,35
+Asian origins,East and Southeast Asian origins,Chinese,865,445,420
+Asian origins,East and Southeast Asian origins,Filipino,230,75,160
+Asian origins,East and Southeast Asian origins,Hmong,0,0,0
+Asian origins,East and Southeast Asian origins,Indonesian,25,0,20
+Asian origins,East and Southeast Asian origins,Japanese,70,35,40
+Asian origins,East and Southeast Asian origins,Karen,0,0,0
+Asian origins,East and Southeast Asian origins,Korean,155,75,80
+Asian origins,East and Southeast Asian origins,Laotian,45,25,20
+Asian origins,East and Southeast Asian origins,Malaysian,15,10,10
+Asian origins,East and Southeast Asian origins,Mongolian,0,0,0
+Asian origins,East and Southeast Asian origins,Singaporean,0,0,0
+Asian origins,East and Southeast Asian origins,Taiwanese,45,20,25
+Asian origins,East and Southeast Asian origins,Thai,45,10,30
+Asian origins,East and Southeast Asian origins,Tibetan,0,0,0
+Asian origins,East and Southeast Asian origins,Vietnamese,145,60,85
+Asian origins,East and Southeast Asian origins,East and Southeast Asian origins; n.i.e.,60,40,25
+Asian origins,Other Asian origins,,10,0,10
+Asian origins,Other Asian origins,Other Asian origins; n.i.e.,10,0,0
+Oceania origins,Other Asian origins,,25,15,10
+Oceania origins,Australian,,15,10,10
+Oceania origins,New Zealander,,10,0,0
+Oceania origins,Pacific Islands origins,,0,0,0
+Oceania origins,Pacific Islands origins,Fijian,0,0,10
+Oceania origins,Pacific Islands origins,Hawaiian,0,0,0
+Oceania origins,Pacific Islands origins,Maori,0,0,0
+Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
+Oceania origins,Pacific Islands origins,Samoan,0,0,0
+Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
