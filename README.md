@@ -42,8 +42,10 @@ the sum of tertiary ethnic origins will not be the same as the total estimate fo
 
 Cumulative and monthly counts and rates of confirmed COVID-19 in Ottawa neighbourhoods between July 2020 and April 2021, excluding cases linked to outbreaks in long-term care homes (LTCH) and retirement homes (RH). Data originally taken from Ottowa's open data initiative. https://open.ottawa.ca/datasets/ottawa::data-tables-for-ons-neighbourhood-covid-19-maps/about
 
-### Extra Information*
-In addition to random rounding, area and data suppression has been adopted to further protect the confidentiality of individual respondents' personal information. Area and data suppression results in the deletion of all information for geographic areas with populations below a specified size. Suppression of data can be due to poor data quality or to other technical reasons.
+### Extra Information
+In addition to random rounding, area and data suppression has been adopted to further protect the confidentiality of individual respondents' personal information. Area and data suppression results in the deletion of all information for geographic areas with populations below a specified size with numeric values replaced with "Suppressed". Suppression of data can be due to poor data quality or to other technical reasons.
+
+Additionally, rates or numbers of active cases at or below 5 will be be replaced with "<5"
 
 ### `cumulative_covid.csv`
 - **neighbourhood** the name of the neighbourhood in Ottowa
