@@ -1,4 +1,4 @@
-neighbourhood,date,monthly rate (per 100k),number of active cases
+neighbourhood,date,monthly_rate,number_active_cases
 Bayshore - Belltown,April 2021,1137,131
 Bayshore - Belltown,March 2021,540,62
 Bayshore - Belltown,February 2021,444,51
