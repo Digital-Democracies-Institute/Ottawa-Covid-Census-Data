@@ -1,5 +1,4 @@
 area_code,primary_ethnic_origin,secondary_ethnic_origin,tertiary_ethnic_origin,total_count,male_count,female_count
-K1S,total estimated ethnic,,,27910,13600,14305
 K1S,North American Aboriginal origins,,,1090,515,580
 K1S,North American Aboriginal origins,First Nations (North American Indian),,735,340,390
 K1S,North American Aboriginal origins,Inuit,,10,0,0
@@ -278,7 +277,6 @@ K1S,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1S,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,10
 K1S,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1S,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,10,0,0
-K1Z,total estimated ethnic,,,20445,9495,10950
 K1Z,North American Aboriginal origins,,,1275,625,650
 K1Z,North American Aboriginal origins,First Nations (North American Indian),,935,435,495
 K1Z,North American Aboriginal origins,Inuit,,55,45,15
@@ -557,7 +555,6 @@ K1Z,Oceania origins,Pacific Islands origins,Maori,0,10,0
 K1Z,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1Z,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1Z,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1H,total estimated ethnic,,,15580,7530,8045
 K1H,North American Aboriginal origins,,,445,175,270
 K1H,North American Aboriginal origins,First Nations (North American Indian),,355,135,225
 K1H,North American Aboriginal origins,Inuit,,20,10,10
@@ -836,7 +833,6 @@ K1H,Oceania origins,Pacific Islands origins,Maori,0,10,0
 K1H,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1H,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1H,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K2M,total estimated ethnic,,,26860,13075,13790
 K2M,North American Aboriginal origins,,,955,515,440
 K2M,North American Aboriginal origins,First Nations (North American Indian),,680,370,310
 K2M,North American Aboriginal origins,Inuit,,15,10,0
@@ -1115,7 +1111,6 @@ K2M,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K2M,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K2M,Oceania origins,Pacific Islands origins,Samoan,15,15,0
 K2M,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,15,15,0
-K4M,total estimated ethnic,,,10880,5300,5575
 K4M,North American Aboriginal origins,,,350,190,160
 K4M,North American Aboriginal origins,First Nations (North American Indian),,265,145,120
 K4M,North American Aboriginal origins,Inuit,,10,0,0
@@ -1394,7 +1389,6 @@ K4M,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K4M,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K4M,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K4M,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1Y,total estimated ethnic,,,19440,9655,9785
 K1Y,North American Aboriginal origins,,,780,360,425
 K1Y,North American Aboriginal origins,First Nations (North American Indian),,560,235,325
 K1Y,North American Aboriginal origins,Inuit,,40,15,25
@@ -1673,7 +1667,6 @@ K1Y,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1Y,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1Y,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1Y,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1R,total estimated ethnic,,,18430,9395,9035
 K1R,North American Aboriginal origins,,,910,440,470
 K1R,North American Aboriginal origins,First Nations (North American Indian),,680,335,345
 K1R,North American Aboriginal origins,Inuit,,15,0,20
@@ -1952,7 +1945,6 @@ K1R,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1R,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1R,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1R,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1X,total estimated ethnic,,,830,440,395
 K1X,North American Aboriginal origins,,,20,15,0
 K1X,North American Aboriginal origins,First Nations (North American Indian),,15,10,0
 K1X,North American Aboriginal origins,Inuit,,0,0,0
@@ -2231,7 +2223,6 @@ K1X,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1X,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1X,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1X,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1B,total estimated ethnic,,,16745,8125,8625
 K1B,North American Aboriginal origins,,,820,355,465
 K1B,North American Aboriginal origins,First Nations (North American Indian),,665,305,360
 K1B,North American Aboriginal origins,Inuit,,10,0,10
@@ -2510,7 +2501,6 @@ K1B,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1B,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1B,Oceania origins,Pacific Islands origins,Samoan,10,10,0
 K1B,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1C,total estimated ethnic,,,36980,17800,19180
 K1C,North American Aboriginal origins,,,1965,940,1020
 K1C,North American Aboriginal origins,First Nations (North American Indian),,1340,635,710
 K1C,North American Aboriginal origins,Inuit,,45,30,15
@@ -2789,7 +2779,6 @@ K1C,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1C,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1C,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1C,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K2B,total estimated ethnic,,,31730,14840,16890
 K2B,North American Aboriginal origins,,,1445,625,820
 K2B,North American Aboriginal origins,First Nations (North American Indian),,1015,445,565
 K2B,North American Aboriginal origins,Inuit,,60,25,35
@@ -3068,7 +3057,6 @@ K2B,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K2B,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K2B,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K2B,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K2V,total estimated ethnic,,,2430,1225,1210
 K2V,North American Aboriginal origins,,,90,40,50
 K2V,North American Aboriginal origins,First Nations (North American Indian),,45,15,35
 K2V,North American Aboriginal origins,Inuit,,0,0,0
@@ -3347,7 +3335,6 @@ K2V,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K2V,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K2V,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K2V,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1A,total estimated ethnic,,,490,210,285
 K1A,North American Aboriginal origins,,,35,15,20
 K1A,North American Aboriginal origins,First Nations (North American Indian),,20,15,10
 K1A,North American Aboriginal origins,Inuit,,0,0,0
@@ -3626,7 +3613,6 @@ K1A,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1A,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1A,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1A,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K2P,total estimated ethnic,,,16935,8200,8740
 K2P,North American Aboriginal origins,,,920,365,560
 K2P,North American Aboriginal origins,First Nations (North American Indian),,615,255,355
 K2P,North American Aboriginal origins,Inuit,,35,10,30
@@ -3905,7 +3891,6 @@ K2P,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K2P,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K2P,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K2P,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K0A,total estimated ethnic,,,102030,51460,50570
 K0A,North American Aboriginal origins,,,6795,3350,3440
 K0A,North American Aboriginal origins,First Nations (North American Indian),,4170,1990,2180
 K0A,North American Aboriginal origins,Inuit,,130,55,80
@@ -4184,7 +4169,6 @@ K0A,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K0A,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K0A,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K0A,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1W,total estimated ethnic,,,9905,4875,5030
 K1W,North American Aboriginal origins,,,455,205,245
 K1W,North American Aboriginal origins,First Nations (North American Indian),,290,140,150
 K1W,North American Aboriginal origins,Inuit,,0,10,0
@@ -4463,7 +4447,6 @@ K1W,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1W,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1W,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1W,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1V,total estimated ethnic,,,54125,26350,27775
 K1V,North American Aboriginal origins,,,2105,930,1175
 K1V,North American Aboriginal origins,First Nations (North American Indian),,1500,680,825
 K1V,North American Aboriginal origins,Inuit,,105,45,60
@@ -4742,7 +4725,6 @@ K1V,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1V,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1V,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1V,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1J,total estimated ethnic,,,26255,12480,13775
 K1J,North American Aboriginal origins,,,1475,650,825
 K1J,North American Aboriginal origins,First Nations (North American Indian),,1030,455,570
 K1J,North American Aboriginal origins,Inuit,,135,55,80
@@ -5021,7 +5003,6 @@ K1J,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1J,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1J,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1J,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K2R,total estimated ethnic,,,1160,610,545
 K2R,North American Aboriginal origins,,,45,20,25
 K2R,North American Aboriginal origins,First Nations (North American Indian),,15,15,10
 K2R,North American Aboriginal origins,Inuit,,0,0,0
@@ -5300,7 +5281,6 @@ K2R,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K2R,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K2R,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K2R,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K4A,total estimated ethnic,,,54250,26280,27970
 K4A,North American Aboriginal origins,,,2675,1255,1420
 K4A,North American Aboriginal origins,First Nations (North American Indian),,1855,900,955
 K4A,North American Aboriginal origins,Inuit,,15,10,10
@@ -5579,7 +5559,6 @@ K4A,Oceania origins,Pacific Islands origins,Maori,10,10,0
 K4A,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,10,0,10
 K4A,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K4A,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,10,0
-K2A,total estimated ethnic,,,15785,7480,8300
 K2A,North American Aboriginal origins,,,630,230,395
 K2A,North American Aboriginal origins,First Nations (North American Indian),,420,150,265
 K2A,North American Aboriginal origins,Inuit,,15,0,10
@@ -5857,8 +5836,6 @@ K2A,Oceania origins,Pacific Islands origins,Hawaiian,0,0,10
 K2A,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K2A,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,10,0,0
 K2A,Oceania origins,Pacific Islands origins,Samoan,0,0,0
-K2A,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K2J,total estimated ethnic,,,68655,33710,34945
 K2J,North American Aboriginal origins,,,2680,1305,1375
 K2J,North American Aboriginal origins,First Nations (North American Indian),,1795,850,945
 K2J,North American Aboriginal origins,Inuit,,75,45,30
@@ -6137,7 +6114,6 @@ K2J,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K2J,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,35,15,25
 K2J,Oceania origins,Pacific Islands origins,Samoan,10,0,15
 K2J,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1T,total estimated ethnic,,,35445,17100,18345
 K1T,North American Aboriginal origins,,,1300,590,705
 K1T,North American Aboriginal origins,First Nations (North American Indian),,895,400,495
 K1T,North American Aboriginal origins,Inuit,,75,35,35
@@ -6416,7 +6392,6 @@ K1T,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1T,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1T,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1T,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K4B,total estimated ethnic,,,4690,2320,2365
 K4B,North American Aboriginal origins,,,335,155,185
 K4B,North American Aboriginal origins,First Nations (North American Indian),,220,110,110
 K4B,North American Aboriginal origins,Inuit,,15,15,0
@@ -6695,7 +6670,6 @@ K4B,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K4B,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K4B,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K4B,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1E,total estimated ethnic,,,14675,7160,7515
 K1E,North American Aboriginal origins,,,1050,450,605
 K1E,North American Aboriginal origins,First Nations (North American Indian),,635,265,375
 K1E,North American Aboriginal origins,Inuit,,45,15,35
@@ -6974,7 +6948,6 @@ K1E,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1E,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1E,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1E,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K2W,total estimated ethnic,,,8775,4330,4450
 K2W,North American Aboriginal origins,,,295,145,155
 K2W,North American Aboriginal origins,First Nations (North American Indian),,230,110,120
 K2W,North American Aboriginal origins,Inuit,,10,0,0
@@ -7253,7 +7226,6 @@ K2W,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K2W,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K2W,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K2W,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1M,total estimated ethnic,,,6430,2970,3455
 K1M,North American Aboriginal origins,,,295,125,175
 K1M,North American Aboriginal origins,First Nations (North American Indian),,200,70,125
 K1M,North American Aboriginal origins,Inuit,,0,10,0
@@ -7532,7 +7504,6 @@ K1M,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1M,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1M,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1M,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K4C,total estimated ethnic,,,4445,2300,2145
 K4C,North American Aboriginal origins,,,280,115,170
 K4C,North American Aboriginal origins,First Nations (North American Indian),,215,75,145
 K4C,North American Aboriginal origins,Inuit,,0,0,0
@@ -7811,7 +7782,6 @@ K4C,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K4C,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K4C,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K4C,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1G,total estimated ethnic,,,33135,15890,17245
 K1G,North American Aboriginal origins,,,1390,645,745
 K1G,North American Aboriginal origins,First Nations (North American Indian),,915,425,490
 K1G,North American Aboriginal origins,Inuit,,115,50,65
@@ -8090,7 +8060,6 @@ K1G,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1G,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1G,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1G,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1P,total estimated ethnic,,,290,170,115
 K1P,North American Aboriginal origins,,,10,0,10
 K1P,North American Aboriginal origins,First Nations (North American Indian),,10,0,0
 K1P,North American Aboriginal origins,Inuit,,0,0,0
@@ -8369,7 +8338,6 @@ K1P,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1P,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1P,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1P,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K2L,total estimated ethnic,,,18820,9310,9515
 K2L,North American Aboriginal origins,,,975,525,445
 K2L,North American Aboriginal origins,First Nations (North American Indian),,695,375,320
 K2L,North American Aboriginal origins,Inuit,,0,0,0
@@ -8648,7 +8616,6 @@ K2L,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K2L,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K2L,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K2L,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K4P,total estimated ethnic,,,9695,4895,4795
 K4P,North American Aboriginal origins,,,585,295,290
 K4P,North American Aboriginal origins,First Nations (North American Indian),,350,180,170
 K4P,North American Aboriginal origins,Inuit,,35,15,20
@@ -8927,7 +8894,6 @@ K4P,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K4P,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K4P,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K4P,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1L,total estimated ethnic,,,16815,8195,8615
 K1L,North American Aboriginal origins,,,1650,735,910
 K1L,North American Aboriginal origins,First Nations (North American Indian),,1170,525,645
 K1L,North American Aboriginal origins,Inuit,,200,80,120
@@ -9206,7 +9172,6 @@ K1L,Oceania origins,Pacific Islands origins,Maori,10,10,0
 K1L,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K1L,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1L,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K2S,total estimated ethnic,,,31465,15335,16130
 K2S,North American Aboriginal origins,,,1260,600,655
 K2S,North American Aboriginal origins,First Nations (North American Indian),,895,440,460
 K2S,North American Aboriginal origins,Inuit,,30,10,25
@@ -9485,7 +9450,6 @@ K2S,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K2S,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K2S,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K2S,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K2H,total estimated ethnic,,,25520,12165,13360
 K2H,North American Aboriginal origins,,,1410,650,755
 K2H,North American Aboriginal origins,First Nations (North American Indian),,955,405,550
 K2H,North American Aboriginal origins,Inuit,,25,15,15
@@ -9764,7 +9728,6 @@ K2H,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K2H,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K2H,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K2H,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K2E,total estimated ethnic,,,18960,9315,9650
 K2E,North American Aboriginal origins,,,690,365,320
 K2E,North American Aboriginal origins,First Nations (North American Indian),,475,260,220
 K2E,North American Aboriginal origins,Inuit,,50,20,25
@@ -10043,7 +10006,6 @@ K2E,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K2E,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,0,0,0
 K2E,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K2E,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K1K,total estimated ethnic,,,28670,13640,15030
 K1K,North American Aboriginal origins,,,1845,815,1025
 K1K,North American Aboriginal origins,First Nations (North American Indian),,1415,635,785
 K1K,North American Aboriginal origins,Inuit,,70,40,35
@@ -10322,7 +10284,6 @@ K1K,Oceania origins,Pacific Islands origins,Maori,0,0,0
 K1K,Oceania origins,Pacific Islands origins,Polynesian; n.o.s.,15,10,10
 K1K,Oceania origins,Pacific Islands origins,Samoan,0,0,0
 K1K,Oceania origins,Pacific Islands origins,Pacific Islands origins; n.i.e.,0,0,0
-K2C,total estimated ethnic,,,27050,13540,13510
 K2C,North American Aboriginal origins,,,1070,550,520
 K2C,North American Aboriginal origins,First Nations (North American Indian),,780,380,400
 K2C,North American Aboriginal origins,Inuit,,10,0,0
