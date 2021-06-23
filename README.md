@@ -28,13 +28,13 @@ would be turned into three rows:
 the sum of tertiary ethnic origins will not be the same as the total estimate for secondary ethnic origins, and the sum of all secondary ethnic origins will not equate to the total of the primary ethnic origins.
 
 ### `census.csv`
-- **area_code** the first three symbols of the postal code
-- **primary_ethnic_origin** the broadest ethnic region the row corresponds to
-- **secondary_ethnic_origin** the secondary (more specific) region the row corresponds to
-- **tertiary_ethnic_origin** the most specific ethnic group the row corresponds to 
-- **total_count** the total number of individuals who marked this
-- **male_count** the total number of self-described males
-- **female_count** the total number of self-described females
+- **area_code (string)** the first three symbols of the postal code
+- **primary_ethnic_origin (string)** the broadest ethnic region the row corresponds to
+- **secondary_ethnic_origin (string)** the secondary (more specific) region the row corresponds to
+- **tertiary_ethnic_origin (string)** the most specific ethnic group the row corresponds to 
+- **total_count (number)** the total number of individuals who marked this
+- **male_count (number)** the total number of self-described males
+- **female_count (number)** the total number of self-described females
  
 
 ## Ottowa covid neighbourhood infection rates
@@ -48,25 +48,17 @@ In addition to random rounding, area and data suppression has been adopted to fu
 Additionally, rates or numbers of active cases at or below 5 will be be replaced with "<5"
 
 ### `cumulative_covid.csv`
-- **neighbourhood** the name of the neighbourhood in Ottowa
-- **cumulative_rate** Cumulative rate (per 100 000 population), excluding cases linked to outbreaks in LTCH and RH – cumulative number of residents with confirmed COVID-19 in a neighbourhood, excluding those linked to outbreaks in LTCH and RH, divided by the total population of that neighbourhood
-- **cumulative_cases** Cumulative number of cases, excluding cases linked to outbreaks in LTCH and RH - cumulative number of residents with confirmed COVID-19 in a neighbourhood, excluding cases linked to outbreaks in LTCH and RH
-- **estimated_total_population** estimated population of each neighbourhood
-
-### `monthly_covid.csv`
-neighbourhood,date,monthly rate (per 100k),number of active cases
-
-- **neighbourhood** the name of the neighbourhood in ottowa
-- **date** the date, in the format "[full month name] [year]"
-- **monthly_rate** Cumulative rate (per 100 000 population), excluding cases linked to outbreaks in LTCH and RH – cumulative number of residents with confirmed COVID-19 in a neighbourhood, excluding those linked to outbreaks in LTCH and RH, divided by the total population of that neighbourhood
-- **number_active_cases** Cumulative number of cases, excluding cases linked to outbreaks in LTCH and RH - cumulative number of residents with confirmed COVID-19 in a neighbourhood, excluding cases linked to outbreaks in LTCH and RH
+- **neighbourhood (string)** the name of the neighbourhood in Ottowa
+- **cumulative_rate (number)** Cumulative rate (per 100 000 population), excluding cases linked to outbreaks in LTCH and RH – cumulative number of residents with confirmed COVID-19 in a neighbourhood, excluding those linked to outbreaks in LTCH and RH, divided by the total population of that neighbourhood
+- **cumulative_cases (number)** Cumulative number of cases, excluding cases linked to outbreaks in LTCH and RH - cumulative number of residents with confirmed COVID-19 in a neighbourhood, excluding cases linked to outbreaks in LTCH and RH
+- **estimated_total_population (number)** estimated population of each neighbourhood
 
 ## Neighbourhood postal codes
 **location** `cleaned_data/ottowa neighbourhood zip codes.csv`
 contains a mapping between postal code and ottowa neighbourhood. Google maps was used to determine postal code of each neighbourhood.
 
-- **postal_area** the first three letters of the postal code the neighbourhood resides in
-- **full_postal_code** the full six letter of the postal code the neighbourhood resides in
-- **neighbourhood_name** the full name of the ottowa neighbourhood
+- **postal_area (string)** the first three letters of the postal code the neighbourhood resides in
+- **full_postal_code (string)** the full six letter of the postal code the neighbourhood resides in
+- **neighbourhood_name (string)** the full name of the ottowa neighbourhood
 
 
